@@ -4,6 +4,7 @@ import firebase from 'firebase/app';
 import 'firebase/firestore';
 import 'firebase/auth';
 
+
 const config = {
   apiKey: "AIzaSyBo3dbBY22eJ5ITrB-K-J72OivUiHrn_Q4",
   authDomain: "crwn-db-eccd2.firebaseapp.com",
